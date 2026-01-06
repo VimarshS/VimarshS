@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web projects using the MERN stack, focusing on real-world applications and backend APIs.<br><br>👯 I’m looking to collaborate on<br>Open-source projects and MERN / React / Node.js based applications.<br><br>🤝 I’m looking for help with<br>Advanced backend architecture, scalable APIs, and system design basics.<br><br>🌱 I’m currently learning<br>React Native, backend optimization, and improving DSA.<br><br>💬 Ask me about<br>HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and Git.<br><br>⚡ Fun fact<br>I love turning web apps into production-ready products 🚀
+🔭 I’m currently working on<br>Full-stack web projects using the MERN stack, focusing on real-world applications and backend APIs.<br>👯 I’m looking to collaborate on<br>Open-source projects and MERN / React / Node.js based applications.<br>🤝 I’m looking for help with<br>Advanced backend architecture, scalable APIs, and system design basics.<br>🌱 I’m currently learning<br>React Native, backend optimization, and improving DSA.<br>💬 Ask me about<br>HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, and Git.<br>⚡ Fun fact<br>I love turning web apps into production-ready products 🚀
 
 
 ## 🌐 Socials:
