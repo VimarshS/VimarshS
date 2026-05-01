@@ -1,3 +1,40 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Vimarsh%20Srivastava&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%94%20MERN%20%7C%20REST%20APIs%20%7C%20Production-Ready%20Apps&descSize=15&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+scalable+full-stack+applications+%F0%9F%9A%80;MERN+Stack+%E2%80%94+Clean+Architecture+%E2%80%94+Real+Impact;Open+to+Internships+%26+Full+Stack+Roles+%F0%9F%A4%9D;Turning+ideas+into+production-ready+products+%E2%9C%A8)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vimarsh%20Srivastava-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimarsh-srivastava-a393b42a1)
+[![Gmail](https://img.shields.io/badge/Gmail-vimarshadarsh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vimarshadarsh@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=VimarshS&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/VimarshS)
+
+<br/>
+
+> 🟢 &nbsp;**Actively seeking Software Engineering Internships — Full Stack · Backend · DevOps**
+
+</div>
+
+<br/>
+
+---
+
+## 🧑‍💻 About Me
+
+```javascript
+const vimarsh = {
+  role:      "Full Stack Developer",
+  stack:     ["MongoDB", "Express.js", "React", "Node.js"],
+  strengths: ["REST APIs", "JWT Auth Systems", "Cloud Deployment"],
+  learning:  ["React Native", "System Design", "Data Structures & Algorithms"],
+  openTo:    ["Internships", "Open Source", "Freelance Projects"],
+  goal:      "Build products that solve real problems and scale.",
+};
+```
+
 <br/>
 
 | &nbsp; | &nbsp; |
