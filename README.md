@@ -85,7 +85,7 @@ const vimarsh = {
 
 | 🗂️ Project | 🔧 Stack | 📝 Description | 🔗 |
 |:---|:---|:---|:---|
-| **Project Name** | React · Node · MongoDB | What it does and the problem it solves | [Live](#) · [Code](#) |
+| **ChatApp** | React · Node · MongoDB | Real Time Chat That enables end to end comunication | [Live](https://chat-app-pink-eta-53.vercel.app/login) · [Code](https://github.com/VimarshS/chat-app.git) |
 | **Project Name** | Express · JWT · MySQL | What it does and the problem it solves | [Live](#) · [Code](#) |
 | **Project Name** | React Native · REST API | What it does and the problem it solves | [Code](#) |
 
