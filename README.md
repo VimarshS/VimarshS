@@ -146,13 +146,11 @@ _Any backend-heavy or API project — auth systems, dashboards, data tools._
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VimarshS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VimarshS&theme=tokyonight" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimarshS&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="175"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VimarshS&theme=tokyonight" height="175"/>
 
 </div>
 
