@@ -146,17 +146,19 @@ _Any backend-heavy or API project — auth systems, dashboards, data tools._
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VimarshS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Vimarsh's+GitHub+Stats" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VimarshS&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimarshS&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Top+Languages" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VimarshS&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=VimarshS&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%"/>
+<img src="https://streak-stats.demolab.com/?user=VimarshS&theme=tokyonight&hide_border=true" width="55%"/>
 
 </div>
 
