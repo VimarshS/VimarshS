@@ -109,12 +109,13 @@ Real-time full-stack chat application with live messaging, user authentication, 
 </td>
 <td width="50%" valign="top">
 
-### 📦 Project Name
-**Stack:** Express · JWT · MySQL  
-_Add your second strongest project here — what problem it solves, and link to live demo + repo._
+### 📦 Intervu AI
+**Stack:** Next.js · TypeScript · Supabase · Gemini AI · Judge0
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-4ade80?style=flat-square&logo=vercel&logoColor=black)](#)
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+AI-powered mock interview platform with voice/text interviews, resume analysis, coding assessments, and personalized feedback. Features real-time AI interaction, ATS scoring, progress tracking, and performance analytics. Fully deployed and production-ready.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4ade80?style=flat-square&logo=vercel&logoColor=black)](https://intervu-ai-weld.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VimarshS/intervu-ai.git)
 
 </td>
 </tr>
