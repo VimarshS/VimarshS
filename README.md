@@ -122,11 +122,12 @@ AI-powered mock interview platform with voice/text interviews, resume analysis, 
 <tr>
 <td width="50%" valign="top">
 
-### 📱 Project Name
-**Stack:** React Native · REST API  
-_Add your third project. Mobile or a unique use case works great here._
+### 📝 NotesGen AI
+**Stack:** React · Node.js · Express.js · MongoDB · OpenAI API  
+AI-powered notes generation platform that converts raw study material into structured and easy-to-understand notes. Includes AI-generated summaries and a user-friendly interface for creating and organizing study content.
 
-[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-4ade80?style=flat-square&logo=vercel&logoColor=black)](https://notes-gen-ai-puce.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VimarshS/NotesGenAI.git)
 
 </td>
 <td width="50%" valign="top">
